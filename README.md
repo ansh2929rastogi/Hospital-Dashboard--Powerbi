@@ -28,6 +28,8 @@ Skills Demonstrated:
 
 Power BI | DAX | Data Modeling | Healthcare Analytics | KPI Reporting | Data Visualization
 
-📸 Dashboard Preview
 
+## 📸 Dashboard Preview
+
+![Hospital Dashboard](https://raw.githubusercontent.com/ansh2929rastogi/Hospital-Dashboard--Powerbi/main/Screenshot_17-11-2025_12274_app.powerbi.com.jpeg)
 
